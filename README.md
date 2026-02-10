@@ -1,6 +1,6 @@
 # Aplication-Freameworks-Lab03
 
-# Git Practices – Lab 03
+# Git Practices
 
 ## Overview
 This repository contains Git practice work for Lab 03. The lab focuses on learning and applying basic Git version control concepts such as cloning a repository, creating branches, committing changes, merging branches, and pushing updates to a remote GitHub repository.
